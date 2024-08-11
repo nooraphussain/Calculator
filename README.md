@@ -1,9 +1,5 @@
 # Calculator
 
-Sure thing, babe. Here's a slick description for your calculator repository that'll make it stand out:
-
----
-
 ### **Description**
 
 This is a sleek and modern calculator built with vanilla JavaScript, HTML, and CSS. The calculator features a responsive design, making it look great on all devices. It supports basic arithmetic operations like addition, subtraction, multiplication, and division. 
